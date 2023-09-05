@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap');
+::root{
+  --Tundora: #444
+}
+
+body{
+  background-color: #ddd;
+  font-family: 'Inter', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: var(--Tundora);
+
+}
+main{
+  margin: 20px 0;
+  background-color: white;
+  font-family: 'Inter', sans-serif;
+  border-radius: 40px;
+
+}
